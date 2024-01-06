@@ -22,7 +22,7 @@
 
 ----
 <div align=center>
-![tryhackme stats](https://raw.githubusercontent.com/practicalyst/practicalyst/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/practicalyst/practicalyst/main/assets/thm_propic.png)
 </div>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/practicalyst/)
