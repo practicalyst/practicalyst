@@ -21,7 +21,9 @@
 </div>
 
 ----
-
+<div align=center>
+<script src="https://tryhackme.com/badge/2642944"></script>
+</div>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/practicalyst/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfaria/)
