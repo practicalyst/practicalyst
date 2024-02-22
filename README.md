@@ -16,12 +16,6 @@
 
 </div>
 
-<div align=center>
-  
-![TryHackMe](https://raw.githubusercontent.com/practicalyst/practicalyst/main/assets/thm_propic.png)
-
-</div>
-
 
 
 
